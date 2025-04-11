@@ -3,6 +3,7 @@ Our code refers to, but is not limited to, the following official PyTorch docume
 
 Relevant Resources
 PyTorch Knowledge Distillation Example
+<br>
 https://pytorch.org/tutorials/beginner/knowledge_distillation_tutorial.html
 Official PyTorch example demonstrating the basics of knowledge distillation.
 
