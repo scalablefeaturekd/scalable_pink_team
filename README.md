@@ -2,9 +2,11 @@
 Our code refers to, but is not limited to, the following official PyTorch documentation. We refactored (a lot of) parts of the code and made adjustments to aspects such as (but not limited to) the loss function and parameter inputs.
 
 Relevant Resources
+
 PyTorch Knowledge Distillation Example
 <br>
 https://pytorch.org/tutorials/beginner/knowledge_distillation_tutorial.html
+<br>
 Official PyTorch example demonstrating the basics of knowledge distillation.
 
 Transfer Learning Tutorial
